@@ -13,19 +13,19 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
-  
+  <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
-
+  <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
-
+  <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
 ---
